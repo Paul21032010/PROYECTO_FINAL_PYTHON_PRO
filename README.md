@@ -1,5 +1,10 @@
 # PROYECTO FINAL
+
+Este proyecto será una página web para concientizar a las personas sobre lo que están haciendo bien y mal al cuidar el medio ambiente, tendrá información sobre el calentamiento global y cómo prevenirlo, y más funciones que agregaré en el futuro.
+
 ## Contenido
+
+
 Formularios para registrar compromisos y encuestas ambientales.
 
 Información educativa sobre temas ecológicos.
