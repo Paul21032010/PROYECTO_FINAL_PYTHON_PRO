@@ -1,4 +1,4 @@
-# PROYECTO FINAL
+# PROYECTO FINAL: GREEN WEB
 
 Este proyecto será una página web para concientizar a las personas sobre lo que están haciendo bien y mal al cuidar el medio ambiente, tendrá información sobre el calentamiento global y cómo prevenirlo, y más funciones que agregaré en el futuro.
 
@@ -28,4 +28,5 @@ Base de datos (MySQL)
 
 ## Estado del proyecto
 🛠️ En desarrollo. Algunas funcionalidades están en fase de diseño y se agregarán próximamente.
-
+En proceso:
+Agregar un inicio de sesión, y comentarios en publicaciones que puedan hacer los usuarios del sitio web.
