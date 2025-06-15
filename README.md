@@ -1,32 +1,53 @@
-# PROYECTO FINAL: GREEN WEB
+# PROYECTO FINAL: 🌿 GREEN BOT - BOT DE DISCORD ECOLÓGICO
 
-Este proyecto será una página web para concientizar a las personas sobre lo que están haciendo bien y mal al cuidar el medio ambiente, tendrá información sobre el calentamiento global y cómo prevenirlo, y más funciones que agregaré en el futuro.
+Green Bot es un bot educativo e interactivo para Discord, diseñado con el objetivo de promover el cuidado del medio ambiente. Combina datos curiosos, consejos ecológicos, retos sostenibles y funciones de voz para ofrecer una experiencia dinámica, amigable y consciente con el planeta.
 
-## Contenido
+## 📌 Características principales
+Interacción ecológica:
+El bot responde a saludos y preguntas frecuentes sobre medio ambiente de forma automática, con mensajes informativos y amigables.
 
+Comandos disponibles:
 
-Formularios para registrar compromisos y encuestas ambientales.
+!start: Da la bienvenida al usuario e introduce el propósito del bot.
 
-Información educativa sobre temas ecológicos.
+!fact: Envía un dato curioso relacionado con el mundo o la ciencia.
 
-Consejos prácticos para cuidar el medio ambiente.
+!clima: Consulta el clima actual en cualquier ciudad del mundo.
 
-Sección para registro e inicio de sesión de usuarios (integración futura con base de datos).
+!consejo: Ofrece un consejo ecológico para aplicar en tu vida diaria.
 
-## Objetivo
-Fomentar hábitos sostenibles y responsables a través de la educación y la participación.
+!reto_eco: Propone un reto verde para motivar acciones sostenibles.
 
-## Tecnologías utilizadas
+!ecoidea: Da ideas creativas para reutilizar, reciclar y reducir.
 
-PYTHON
+!escuchar: Reconoce la voz del usuario mediante el micrófono y responde con texto.
 
-HTML
+Texto a voz (TTS):
+El bot puede leer en voz alta los mensajes importantes, aportando accesibilidad y dinamismo a la conversación.
 
-CSS
+Reconocimiento de voz:
+El usuario puede hablar directamente al bot, que entenderá lo que dice y responderá con precisión.
 
-Base de datos (MySQL)
+## 🛠️ Tecnologías utilizadas
+Biblioteca de Discord para Python (discord.py)
 
-## Estado del proyecto
-🛠️ En desarrollo. Algunas funcionalidades están en fase de diseño y se agregarán próximamente.
-En proceso:
-Agregar un inicio de sesión, y comentarios en publicaciones que puedan hacer los usuarios del sitio web.
+Módulo de peticiones HTTP (requests)
+
+Motor de voz offline (pyttsx3)
+
+Reconocimiento de voz con micrófono (speech_recognition)
+
+API para datos curiosos y clima en tiempo real
+
+## 🎯 Objetivo del proyecto
+El propósito de Green Bot es educar de forma divertida y práctica sobre temas ambientales. Está pensado para escuelas, comunidades y servidores donde se quiera promover una cultura ecológica a través de la tecnología.
+
+## 🧠 Recomendaciones
+Utilizar el bot en canales donde se hable de sostenibilidad, ciencia o educación.
+
+Evitar sobrecargarlo con comandos repetitivos para no bloquear su funcionamiento.
+
+Promover su uso diario para pequeños aprendizajes o desafíos ecológicos.
+
+## 🧪 Estado actual
+El bot se encuentra en fase funcional con múltiples comandos activos.
