@@ -22,6 +22,10 @@ Comandos disponibles:
 
 !escuchar: Reconoce la voz del usuario mediante el micrófono y responde con texto.
 
+!carbono: Calcula la huella de carbono estimada en base al consumo eléctrico de un aparato.
+
+!info: Menciona las funciones que puede hacer el bot(texto de arriba).
+
 Texto a voz (TTS):
 El bot puede leer en voz alta los mensajes importantes, aportando accesibilidad y dinamismo a la conversación.
 
