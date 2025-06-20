@@ -24,6 +24,10 @@ Comandos disponibles:
 
 !carbono: Calcula la huella de carbono estimada en base al consumo eléctrico de un aparato.
 
+!reciclar [material]: Proporciona una guía rápida para reciclar materiales como papel, plástico, vidrio, residuos orgánicos y electrónicos.
+
+!noticias: Proporciona un sitio web con una noticia reciente referente al medio ambiente.
+
 !info: Menciona las funciones que puede hacer el bot(texto de arriba).
 
 Texto a voz (TTS):
